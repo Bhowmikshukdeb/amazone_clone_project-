@@ -1,2 +1,2 @@
 # amazone_clone_project-
-Simple amazone clone projet by using Html and CSS
+Simple Amazon Clone Project Using HTML and CSS
